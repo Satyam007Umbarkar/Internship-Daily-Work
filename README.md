@@ -58,7 +58,7 @@ By the end of the day, I had a strong understanding of Python basics and was con
 
 
 
-🔹 DAY 5 – 05 Jan 2026 (Sunday – Holiday)
+DAY 5 – 05 Jan 2026 (Sunday – Holiday)
 
 Tasks/Work:
 

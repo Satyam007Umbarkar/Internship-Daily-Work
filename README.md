@@ -12,9 +12,6 @@ Basic guidance was given about learning Python programming as the initial task.
 
 
 
-
-
-
 DAY 2 – 02 Jan 2026
 
 In this phase From Today,I started learning Python programming as it was given as a

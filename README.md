@@ -43,8 +43,6 @@ understanding advanced topics later in the internship. I practiced all examples 
 
 
 DAY 4 – 04 Jan 2026 (Saturday)
-
-Day: Saturday
 Tasks/Work:
 
 Today, I continued learning Python programming basics. I focused on data types, including integers, floats, strings, and booleans.
@@ -62,7 +60,6 @@ By the end of the day, I had a strong understanding of Python basics and was con
 
 🔹 DAY 5 – 05 Jan 2026 (Sunday – Holiday)
 
-Day: Sunday
 Tasks/Work:
 
 Today was a holiday. I revised Python concepts learned in the past two days, including data types, 
@@ -73,7 +70,6 @@ for Chapter 1 to complete tomorrow.
 
 DAY 6 – 06 Jan 2026 (Monday)
 
-Day: Monday
 Tasks/Work:
 
 Today, I learned conditional statements in Python: if, else, and elif. I practiced writing programs to check conditions 
@@ -87,7 +83,6 @@ By practicing conditional statements, I developed better problem-solving skills 
 
 DAY 7 – 07 Jan 2026 (Tuesday)
 
-Day: Tuesday
 Tasks/Work:
 
 I learned loops in Python today, including for and while loops. I practiced writing programs for number series, repeated tasks
@@ -102,7 +97,6 @@ By the end of the day, I was confident in handling loops and writing iterative p
 
 DAY 8 – 08 Jan 2026 (Wednesday)
 
-Day: Wednesday
 Tasks/Work:
 
 Today I practiced pattern printing using loops. I learned to design different geometric patterns like triangles and rectangles with * characters.
@@ -113,7 +107,6 @@ I also explored string manipulation and using loops with strings. This day impro
 
 DAY 9 – 09 Jan 2026 (Thursday)
 
-Day: Thursday
 Tasks/Work:
 
 I learned about Python functions and their importance in code modularity. I created functions in files like Chapter 3/assignment1.py and assignment2.py 
@@ -123,7 +116,6 @@ strings in formattedString.py. Mentor guided me on using functions to simplify p
 
 DAY 10 – 10 Jan 2026 (Friday)
 
-Day: Friday
 Tasks/Work:
 
 Today, I revised all Python basics learned in Phase 1. I completed multiple practice programs from Chapter 0/firstProgram.py to Chapter 2/dataType.py.
@@ -134,7 +126,6 @@ Mentor reviewed all programs and provided suggestions to improve readability, co
 
 DAY 11 – 11 Jan 2026 (Saturday)
 
-Day: Saturday
 Tasks/Work:
 
 Today, the company introduced a live project on Smart Cooling System. I learned the project objectives, real-world applications, and expected outcomes.
@@ -148,7 +139,6 @@ I wrote initial Python scripts to simulate temperature readings and basic ON/OFF
 
 DAY 12 – 12 Jan 2026 (Sunday – Holiday)
 
-Day: Sunday
 Tasks/Work:
 
 Today was a holiday. I revised Smart Cooling concepts learned yesterday, including temperature-based automation, 
@@ -158,7 +148,6 @@ sensor data collection, and basic ON/OFF logic. I also reviewed Python scripts w
 
 DAY 13 – 13 Jan 2026 (Monday)
 
-Day: Monday
 Tasks/Work:
 
 Today, I focused on working principles of Smart Cooling System. I learned how sensors collect temperature data and how relays control devices automatically.
@@ -171,7 +160,6 @@ I learned how to use if-elif-else statements to handle multiple conditions effec
 
 DAY 14 – 14 Jan 2026 (Tuesday)
 
-Day: Tuesday
 Tasks/Work:
 
 Today, I explored different sensors used in the cooling system and their functions. I learned about temperature sensors,
@@ -186,7 +174,6 @@ By the end of the day, I could write a functional program to simulate smart cool
 
 DAY 15 – 15 Jan 2026 (Wednesday)
 
-Day: Wednesday
 Tasks/Work:
 
 Today, I focused on control flow design for the Smart Cooling System. 
@@ -200,7 +187,6 @@ I performed multiple tests with sample inputs to check system response under dif
 
 DAY 16 – 16 Jan 2026 (Thursday)
 
-Day: Thursday
 Tasks/Work:
 
 Today, I studied microcontroller basics and relay control concepts. I learned how microcontrollers interact with sensors and control relays to operate devices automatically.
@@ -213,7 +199,6 @@ I also added error handling and input validation in the code. This day helped me
 
 DAY 17 – 17 Jan 2026 (Friday)
 
-Day: Friday
 Tasks/Work:
 
 Today, I implemented the basic control logic of the Smart Cooling System using Python. I simulated temperature conditions and tested automatic ON/OFF commands for devices
@@ -226,7 +211,6 @@ By the end of the day, I had a functional Python program that could simulate a S
 
 DAY 18 – 18 Jan 2026 (Saturday)
 
-Day: Saturday
 Tasks/Work:
 
 Today, I focused on debugging and improving efficiency of the Smart Cooling Python programs. I tested all possible scenarios for sensor values and identified logical errors.
@@ -240,7 +224,6 @@ to ensure smooth program execution. By the end of the day, the code was clean, e
 
 DAY 19 – 19 Jan 2026 (Sunday – Holiday)
 
-Day: Sunday
 Tasks/Work:
 
 Today was a holiday, so I revised the Smart Cooling project and my Python basics. I also planned the next steps for the Smart
@@ -252,7 +235,6 @@ I prepared my development environment, ensuring ESP32 and required modules are r
 
 DAY 20 – 20 Jan 2026 (Monday)
 
-Day: Monday
 Tasks/Work:
 
 Today, I was introduced to the Smart Home Automation project in detail. I learned how ESP32 communicates with sensors and modules for voice recognition.
@@ -264,7 +246,6 @@ I also created a list of commands and mapped them to devices logically. Mentor e
 
 DAY 21 – 21 Jan 2026 (Tuesday)
 
-Day: Tuesday
 Tasks/Work:
 
 Today, I focused on offline voice recognition logic. I connected the voice module with ESP32 and tested simple commands to turn lights and fans ON or OFF.
@@ -276,7 +257,6 @@ Mentor suggested using clear naming for devices and commands to reduce errors. I
 
 DAY 22 – 22 Jan 2026 (Wednesday)
 
-Day: Wednesday
 Tasks/Work:
 
 Today, I continued testing offline voice commands with ESP32. I handled multiple devices simultaneously, ensuring only the intended device responds.
@@ -288,7 +268,6 @@ Mentor reviewed my code and suggested improvements for efficiency and readabilit
 
 DAY 23 – 23 Jan 2026 (Thursday)
 
-Day: Thursday
 Tasks/Work:
 
 Today, I studied online control using the internet. I learned how ESP32 can connect to Wi-Fi and receive commands from a cloud server or mobile app.
@@ -300,7 +279,6 @@ Mentor explained the importance of security and stable connectivity. I wrote bas
 
 DAY 24 – 24 Jan 2026 (Friday)
 
-Day: Friday
 Tasks/Work:
 
 Today, I planned device control logic for lights, fans, and ACs. I mapped each command to the corresponding GPIO pin and decided the
@@ -311,7 +289,6 @@ for each device to make code modular and easy to debug. I tested the scripts wit
 
 DAY 25 – 25 Jan 2026 (Saturday)
 
-Day: Saturday
 Tasks/Work:
 
 Today, I focused on improving offline voice command accuracy. I tested multiple voice commands for lights, fans, and ACs.
@@ -324,7 +301,6 @@ The offline voice control system was now more stable and reliable.
 
 DAY 26 – 26 Jan 2026 (Sunday – Holiday)
 
-Day: Sunday
 Tasks/Work:
 
 Today was a holiday. I revised the Smart Home Automation offline voice system 
@@ -334,7 +310,6 @@ and planned integration with online commands for next week.
 
 DAY 27 – 27 Jan 2026 (Monday)
 
-Day: Monday
 Tasks/Work:
 
 Today, I started integrating offline and online control systems. I wrote Python scripts to handle commands from both the offline voice module and online cloud server.
@@ -347,7 +322,6 @@ for lights, fans, and ACs to ensure there were no conflicts. By the end of the d
 
 DAY 28 – 28 Jan 2026 (Tuesday)
 
-Day: Tuesday
 Tasks/Work:
 
 Today, I tested voice commands for multiple devices. Lights, fans, and ACs were controlled through both offline and online commands.
@@ -360,7 +334,6 @@ By the end of the day, the system could reliably execute commands, and each devi
 
 DAY 29 – 29 Jan 2026 (Wednesday)
 
-Day: Wednesday
 Tasks/Work:
 
 Today, I worked on error handling and fallback mechanisms in the Smart Home system. I programmed the ESP32 to ignore invalid commands and 
@@ -372,7 +345,6 @@ scripts and optimized loops and condition statements. By the end of the day, the
 
 DAY 30 – 30 Jan 2026 (Thursday)
 
-Day: Thursday
 Tasks/Work:
 
 Today, I performed final testing of the Smart Home system. I verified that voice commands and online commands controlled devices correctly.
@@ -384,7 +356,6 @@ By the end of the day, the Smart Home system was functioning reliably under test
 
 DAY 31 – 31 Jan 2026 (Friday)
 
-Day: Friday
 Tasks/Work:
 
 Today, I prepared documentation for the Smart Home project. I wrote explanations of system flow, logic of offline and online command integration,
@@ -394,7 +365,6 @@ I also wrote step-by-step instructions on how to test the system and troubleshoo
 
 DAY 32 – 01 Feb 2026 (Saturday)
 
-Day: Saturday
 Tasks/Work:
 
 Today, I performed performance testing and minor improvements on the Smart Home system. I fixed small bugs in Python scripts and optimized
@@ -407,7 +377,6 @@ all learning outcomes from both Python basics and project work. By the end of th
 
 DAY 33 – 02 Feb 2026 (Sunday – Holiday)
 
-Day: Sunday
 Tasks/Work:
 
 Today was a holiday, so I used this time to revise the entire Smart Home Automation project. I reviewed the Python scripts, 
@@ -421,7 +390,6 @@ Mentor suggested organizing the code and adding more comments to make future dev
 
 DAY 34 – 03 Feb 2026 (Monday)
 
-Day: Monday
 Tasks/Work:
 
 Today, I continued working on the Smart Home Automation project, focusing on finalizing the remaining development. 
